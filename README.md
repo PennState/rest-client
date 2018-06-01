@@ -9,9 +9,8 @@ TODO
 ## Features
 
 * Standards compliance
-  * JAX-RS
-  * JAX-B
-  * JSON-B
+  * [JAX-RS Client](https://docs.oracle.com/javaee/7/api/javax/ws/rs/client/package-summary.html)
+  * [JSON-B](http://json-b.net/)
 * Timeouts
   * Connect
   * Read
